@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "Lucas",
+      "email": "lucas@evoluire.com.br",
+      "id": 3
+    },
+    {
+      "name": "Francisco",
+      "email": "francisco@attivilog.com",
+      "id": 4
+    },
+    {
+      "name": "Teste",
+      "email": "teste@teste.com",
+      "id": 5
+    },
+    {
+      "name": "Teste2",
+      "email": "teste2@teste.com",
+      "id": 6
+    }
+  ]
+}
